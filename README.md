@@ -1,2 +1,3 @@
-# super-health-tracker-6x5e
+# Super Health Tracker 6X5E
+
 A repository to test GitHub automation for issue management.
